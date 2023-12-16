@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(233, 230, 230);
+}
+
+.fa{
+    color: #4183D7;
+}
+span{
+    font-size: 13px;
+    margin: 15px 1px;
+}
+.boxpart{
+    background-color: white;
+    padding: 60px 10px;
+    margin: 30px 1px;
+}
+
+.box{
+    padding: 50px 1px;
+}
